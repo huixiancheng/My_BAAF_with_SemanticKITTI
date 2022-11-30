@@ -22,7 +22,7 @@ class ConfigSemanticKITTI:
     num_classes = 19  # Number of valid classes
     sub_grid_size = 0.06  # preprocess_parameter
 
-    batch_size = 6  # batch_size during training
+    batch_size = 10  # batch_size during training
     val_batch_size = 20  # batch_size during validation and test
     train_steps = 300  # Number of steps per epochs
     val_steps = 100  # Number of validation steps per epoch
