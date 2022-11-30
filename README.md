@@ -4,6 +4,8 @@
 ## SemanticKITTI part of the code borrowed from [RandLA-Net](https://github.com/QingyongHu/RandLA-Net), and almost identical.
 ## Mostly same as [original Repo](https://github.com/ShiQiu0419/BAAF-Net).
 
+## Usage:
+Please refer to the two repo mentioned above.
 ## Performance Comparison: 
 On the validation set, the results are close to those reported by the original Repo.
 
