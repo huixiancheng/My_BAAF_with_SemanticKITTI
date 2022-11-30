@@ -13,4 +13,4 @@
 
 | **Log** | **Pretrain-model** | **Our Validation results** | **Original Repo Validation results**|
 | ---------------- | --------------- | ------------------ | ------------------ | 
-| [Link](train_log/log.txt) | [Link](results/Log_2022-11-27_14-29-54/snapshots) | [Link](https://drive.google.com/file/d/123Bk9LoP17PLqbU88UJa6661k5qr4bOw/view?usp=share_link) | [Link](https://drive.google.com/file/d/1grQ57rZXL34mAOmI_3IASovu_APOPMI3/view?usp=sharing) |
+| [Link](train_log/log.txt) | [Link](results/Log_2022-11-27_14-29-54/snapshots) | [Link](results/test.zip) | [Link](https://drive.google.com/file/d/1grQ57rZXL34mAOmI_3IASovu_APOPMI3/view?usp=sharing) |
