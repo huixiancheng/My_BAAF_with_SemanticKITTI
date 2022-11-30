@@ -4,7 +4,9 @@
 ## SemanticKITTI part of the code borrowed from [RandLA-Net](https://github.com/QingyongHu/RandLA-Net). and almost identical
 ## Mostly same as [original repo](https://github.com/ShiQiu0419/BAAF-Net).
 
-##Performance Comparison:
+## Performance Comparison: 
+On the validation set, the results are close to those reported by the original Repo
+
 | Model | mIoU | car  | bicycle | motorcycle | truck | other-vehicle | person | bicyclist | motorcyclist | road | parking | sidewalk | other-ground | building | fence | vegetation | trunk | terrain | pole | traffic-sign |
 | ---- | ---- | ------- | ---------- | ----- | ------------- | ------ | --------- | ------------ | ---- | ------- | -------- | ------------ | -------- | ----- | ---------- | ----- | ------- | ---- | ------------ | ---- |
 | Original Repo Report |**58.71** | 94.75| 12.41| 52.01| 80.57| 46.41| 59.77| 75.02| 0.01| 93.11| 44.72| 80.74| 2.56| 89.84| 51.45| 87.09| 66.55| 77.33| 57.92| 43.23|
