@@ -1,8 +1,8 @@
 # Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion (CVPR 2021)
 
-## My personal experimental implementation. Since the original Repo missing this part.
-## SemanticKITTI part of the code borrowed from [RandLA-Net](https://github.com/QingyongHu/RandLA-Net), and almost identical.
-## Mostly same as [original Repo](https://github.com/ShiQiu0419/BAAF-Net).
+- ## My personal experimental implementation. Since the original Repo missing this part.
+- ## SemanticKITTI part of the code borrowed from [RandLA-Net](https://github.com/QingyongHu/RandLA-Net), and almost identical.
+- ## Mostly same as [original Repo](https://github.com/ShiQiu0419/BAAF-Net).
 
 ## Usage:
 Please refer to the two repo mentioned above.
