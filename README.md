@@ -1,11 +1,11 @@
 # Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion (CVPR 2021)
 
-## My personal experimental implementation. 
-## SemanticKITTI part of the code borrowed from [RandLA-Net](https://github.com/QingyongHu/RandLA-Net). and almost identical
-## Mostly same as [original repo](https://github.com/ShiQiu0419/BAAF-Net).
+## My personal experimental implementation. Since the original Repo missing this part.
+## SemanticKITTI part of the code borrowed from [RandLA-Net](https://github.com/QingyongHu/RandLA-Net), and almost identical.
+## Mostly same as [original Repo](https://github.com/ShiQiu0419/BAAF-Net).
 
 ## Performance Comparison: 
-On the validation set, the results are close to those reported by the original Repo
+On the validation set, the results are close to those reported by the original Repo.
 
 | Model | mIoU | car  | bicycle | motorcycle | truck | other-vehicle | person | bicyclist | motorcyclist | road | parking | sidewalk | other-ground | building | fence | vegetation | trunk | terrain | pole | traffic-sign |
 | ---- | ---- | ------- | ---------- | ----- | ------------- | ------ | --------- | ------------ | ---- | ------- | -------- | ------------ | -------- | ----- | ---------- | ----- | ------- | ---- | ------------ | ---- |
